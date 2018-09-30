@@ -1,0 +1,544 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 00:05:11
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 00:05:11 GET /images/Bird+and+Kern+Child+Case+History+Form.pdf 180.76.15.12 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.birdkernanddalmia.com 200 0 268820
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 00:57:20
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 00:57:20 GET / 178.255.215.67 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - www.birdkernanddalmia.com 304 0 258
+2018-05-30 01:06:43 GET / 42.236.99.142 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 01:41:22
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 01:41:22 GET /jakarta/isapi_redirect.dll 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - www.birdkernanddalmia.com 200 0 7784
+2018-05-30 01:41:22 GET /cssone.css 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 876
+2018-05-30 01:41:22 GET /Scripts/AC_RunActiveContent.js 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 8613
+2018-05-30 01:41:22 GET /Images/Adobe-ID-044ASP365792.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 13230
+2018-05-30 01:41:22 GET /Images/Home-button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 2885
+2018-05-30 01:41:22 GET /Images/Vision-Button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 2957
+2018-05-30 01:41:22 GET /Images/Therapy-services.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 1492
+2018-05-30 01:41:22 GET /Images/Therapist-button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3556
+2018-05-30 01:41:22 GET /Images/Intake-Forms-Button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 4049
+2018-05-30 01:41:22 GET /Images/Equipment-button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3786
+2018-05-30 01:41:22 GET /Images/Pricing-button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 1711
+2018-05-30 01:41:22 GET /Images/News-Button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 2706
+2018-05-30 01:41:22 GET /Images/Links-Button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 2773
+2018-05-30 01:41:22 GET /Images/contact-us-button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3759
+2018-05-30 01:41:22 GET /Images/Cool-Ideas-button.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3605
+2018-05-30 01:41:22 GET /images/bottombar.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 1851
+2018-05-30 01:41:22 GET /Images/coolideas-page-background.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 77435
+2018-05-30 01:41:22 GET /Images/Home-button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 2962
+2018-05-30 01:41:22 GET /Images/Intake-Forms-Button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 4229
+2018-05-30 01:41:22 GET /Images/Vision-Button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3058
+2018-05-30 01:41:22 GET /Images/Pricing-button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 1931
+2018-05-30 01:41:22 GET /Images/Therapy-services-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 1659
+2018-05-30 01:41:22 GET /Images/Cool-Ideas-button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3744
+2018-05-30 01:41:22 GET /favicon.ico 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 404 0 5471
+2018-05-30 01:41:22 GET /Images/Equipment-button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3936
+2018-05-30 01:41:22 GET /Images/Links-Button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 2851
+2018-05-30 01:41:22 GET /Images/Contact-Us-Button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3901
+2018-05-30 01:41:22 GET /Images/Therapsits-button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 3705
+2018-05-30 01:41:22 GET /Images/News-Button-MO.jpg 71.232.22.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 2778
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 02:03:38
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 02:03:38 GET /marilynrbird.html 73.170.32.123 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 - www.birdkernanddalmia.com 200 0 7428
+2018-05-30 02:03:38 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 02:03:38 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 02:03:38 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 02:03:38 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 02:03:39 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 02:03:39 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 02:03:39 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 02:03:39 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 02:03:39 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 02:03:39 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 02:04:32 GET / 180.76.15.13 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - birdkernanddalmia.com 200 0 6442
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 02:48:27
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 02:48:27 GET / 157.55.39.196 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 02:51:14 GET /index.html 104.42.253.60 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.1;+WOW64;+Trident/6.0) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 02:58:13 GET / 66.249.64.71 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 02:58:15 GET /cssone.css 66.249.64.71 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 876
+2018-05-30 03:03:38 GET / 66.249.64.71 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 03:08:52 GET /marilynrbird.html 73.170.32.123 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 - www.birdkernanddalmia.com 200 0 7428
+2018-05-30 03:08:53 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 03:08:53 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 03:08:53 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 03:08:53 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 03:08:53 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 03:08:53 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 03:08:53 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 03:08:53 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 03:08:53 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 03:08:53 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 03:18:17 GET /jakarta/isapi_redirect.dll 207.46.13.149 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 7249
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 04:00:32
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 04:00:32 GET /robots.txt 151.80.39.88 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - www.birdkernanddalmia.com 404 0 5469
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 05:17:44
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 05:17:43 GET / 69.181.118.131 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 https://www.google.com/ www.birdkernanddalmia.com 200 0 6423
+2018-05-30 05:28:24 GET /robots.txt 66.249.66.88 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - birdkernanddalmia.com 404 0 5465
+2018-05-30 05:28:24 GET / 66.249.66.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - birdkernanddalmia.com 200 0 6423
+2018-05-30 05:28:26 GET /cssone.css 66.249.66.89 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://birdkernanddalmia.com/ birdkernanddalmia.com 200 0 876
+2018-05-30 05:30:39 GET / 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 6423
+2018-05-30 05:30:41 GET /index.html 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 6423
+2018-05-30 05:30:42 GET /vision.html 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 7736
+2018-05-30 05:30:44 GET / 66.249.66.199 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 05:30:44 GET /jakarta/isapi_redirect.dll 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 9005
+2018-05-30 05:30:45 GET /therapists.html 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 7299
+2018-05-30 05:30:47 GET /therapyservices.html 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 6288
+2018-05-30 05:30:48 GET /intakeforms.html 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 7484
+2018-05-30 05:30:49 GET /jakarta/isapi_redirect.dll 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 7416
+2018-05-30 05:30:51 GET /jakarta/isapi_redirect.dll 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 7784
+2018-05-30 05:30:52 GET /jakarta/isapi_redirect.dll 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 7249
+2018-05-30 05:30:54 GET /jakarta/isapi_redirect.dll 176.37.88.156 HTTP/1.1 Symfony+BrowserKit - birdkernanddalmia.com 200 0 10254
+2018-05-30 05:31:30 GET / 66.249.66.203 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 05:31:35 GET /cssone.css 66.249.66.199 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 876
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 06:41:54
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 06:41:54 HEAD / 35.190.203.248 HTTP/1.1 - - www.birdkernanddalmia.com 200 0 276
+2018-05-30 06:41:54 GET / 35.190.203.248 HTTP/1.1 - - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 07:03:38
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 07:03:38 GET / 66.249.66.201 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 07:50:29
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 07:50:29 GET /robots.txt 46.229.168.72 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 404 0 0
+2018-05-30 07:50:31 GET /jakarta/isapi_redirect.dll 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 200 0 6566
+2018-05-30 07:51:00 GET /juliemcafee.html 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 200 0 8066
+2018-05-30 07:51:15 GET /jakarta/isapi_redirect.dll 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 200 0 10273
+2018-05-30 07:51:28 GET /jakarta/isapi_redirect.dll 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 200 0 7268
+2018-05-30 07:51:39 GET /lindsayMitchell.html 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 200 0 7363
+2018-05-30 07:51:43 GET /links.html 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 200 0 293
+2018-05-30 07:51:49 GET /intakeforms.html 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - www.birdkernanddalmia.com 200 0 7503
+2018-05-30 07:57:03 GET / 66.249.66.203 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 08:50:04
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 08:50:04 GET /robots.txt 5.255.250.120 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.birdkernanddalmia.com 404 0 5469
+2018-05-30 08:50:08 GET /intakeforms.html 5.255.250.120 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.birdkernanddalmia.com 200 0 7484
+2018-05-30 08:50:09 GET /Scripts/AC_RunActiveContent.js 5.255.250.180 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 8613
+2018-05-30 08:50:13 GET /cssone.css 5.255.250.102 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 876
+2018-05-30 08:51:14 GET / 66.249.66.203 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 10:24:10
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 10:24:10 GET /robots.txt 66.249.66.199 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 404 0 5469
+2018-05-30 10:25:10 GET /license.php 94.23.196.14 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - www.birdkernanddalmia.com 404 0 5500
+2018-05-30 10:25:11 GET /license.php 94.23.196.14 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - www.birdkernanddalmia.com 404 0 5500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 11:20:50
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 11:20:50 GET /vision.html 207.46.13.149 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 7736
+2018-05-30 11:21:00 GET /robots.txt 157.55.39.196 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 404 0 5469
+2018-05-30 11:21:12 GET /Scripts/AC_RunActiveContent.js 157.55.39.194 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 8613
+2018-05-30 11:21:12 GET /cssone.css 157.55.39.194 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 876
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 11:55:31
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 11:55:31 GET / 66.249.66.199 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 12:02:29 GET /ads.txt 66.249.66.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - birdkernanddalmia.com 404 0 5459
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 12:41:19
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 12:41:19 GET / 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 12:41:19 GET /wp-includes/wlwmanifest.xml 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 404 0 5503
+2018-05-30 12:41:19 GET /xmlrpc.php 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 404 0 5478
+2018-05-30 12:41:19 GET / 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 12:41:19 GET /blog/wp-includes/wlwmanifest.xml 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 12:41:19 GET /wordpress/wp-includes/wlwmanifest.xml 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 404 0 5523
+2018-05-30 12:41:19 GET /wp/wp-includes/wlwmanifest.xml 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 404 0 5509
+2018-05-30 12:41:19 GET /site/wp-includes/wlwmanifest.xml 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 12:41:20 GET /cms/wp-includes/wlwmanifest.xml 178.137.165.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - www.birdkernanddalmia.com 404 0 5511
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 12:59:46
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 12:59:46 GET / 66.249.66.199 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 14:01:42
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 14:01:42 GET /images/BKBI.jpg 170.232.227.242 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko https://www.bing.com/ www.birdkernanddalmia.com 200 0 124695
+2018-05-30 14:01:42 GET /images/Bird+and+Kern+Billing+Form.jpeg 170.232.227.242 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko https://www.bing.com/ www.birdkernanddalmia.com 200 0 715560
+2018-05-30 14:15:37 GET /marilynrbird.html 73.170.32.123 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 - www.birdkernanddalmia.com 200 0 7428
+2018-05-30 14:15:38 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 14:15:38 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 14:15:38 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 14:15:38 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 14:15:38 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 14:15:38 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 14:15:38 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 14:15:38 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 14:15:38 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 14:15:38 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 14:17:57 GET / 66.249.66.89 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - birdkernanddalmia.com 200 0 6423
+2018-05-30 14:23:22 GET / 66.249.66.203 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 14:24:55 GET / 66.249.66.199 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 14:39:07 GET / 194.63.142.248 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.80+Safari/537.36 - birdkernanddalmia.com 200 0 6442
+2018-05-30 14:39:08 GET /index.html 194.63.142.248 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/46.0.2490.80+Safari/537.36 http://birdkernanddalmia.com birdkernanddalmia.com 200 0 6442
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 15:31:31
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 15:31:31 GET / 66.249.66.201 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 16:04:59
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 16:04:59 GET /robots.txt 157.55.39.33 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 404 0 5469
+2018-05-30 16:05:04 GET / 157.55.39.196 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 16:39:11
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 16:39:11 GET /robots.txt 216.244.66.238 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - birdkernanddalmia.com 404 0 5465
+2018-05-30 16:46:36 GET / 66.249.66.88 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - birdkernanddalmia.com 200 0 6423
+2018-05-30 16:47:37 GET /anudalmia.html 216.244.66.238 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - birdkernanddalmia.com 200 0 7942
+2018-05-30 16:50:17 GET /robots.txt 5.255.250.120 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - birdkernanddalmia.com 404 0 5465
+2018-05-30 16:50:17 GET /robots.txt 5.255.250.15 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.birdkernanddalmia.com 404 0 5469
+2018-05-30 16:50:21 GET / 5.255.250.120 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - birdkernanddalmia.com 200 0 6423
+2018-05-30 16:50:21 GET / 5.255.250.15 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 16:51:14 GET / 66.249.66.201 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 16:51:17 GET /cssone.css 66.249.66.199 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 876
+2018-05-30 17:01:34 GET /marilynrbird.html 73.170.32.123 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 - www.birdkernanddalmia.com 200 0 7428
+2018-05-30 17:01:34 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 17:01:34 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 17:01:34 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 17:01:34 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 17:01:34 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 17:01:34 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 17:01:34 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 17:01:34 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 17:01:35 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 17:01:35 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 17:15:07 GET /marilynrbird.html 73.170.32.123 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+10_3_2+like+Mac+OS+X)+AppleWebKit/603.2.4+(KHTML,+like+Gecko)+Version/10.0+Mobile/14F8089+Safari/602.1 - www.birdkernanddalmia.com 200 0 7428
+2018-05-30 17:15:07 GET /apple-touch-icon-152x152-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 17:15:07 GET /apple-touch-icon-152x152.png 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 17:15:07 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 17:15:07 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 17:15:07 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 17:15:07 GET /apple-touch-icon-152x152-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 17:15:08 GET /apple-touch-icon-152x152.png 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 17:15:08 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/602.1+CFNetwork/811.5.4+Darwin/16.6.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 17:23:46 GET / 66.249.66.201 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 18:05:17
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 18:05:17 GET /Laura+Craine.html 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 https://www.google.com/ www.birdkernanddalmia.com 200 0 7765
+2018-05-30 18:05:17 GET /cssone.css 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 876
+2018-05-30 18:05:17 GET /Images/Home-button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 2885
+2018-05-30 18:05:17 GET /Images/Therapy-services.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 1492
+2018-05-30 18:05:17 GET /Scripts/AC_RunActiveContent.js 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 8613
+2018-05-30 18:05:17 GET /Images/Vision-Button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 2957
+2018-05-30 18:05:17 GET /Images/Therapist-button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3556
+2018-05-30 18:05:17 GET /Images/Intake-Forms-Button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 4049
+2018-05-30 18:05:17 GET /Images/Pricing-button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 1711
+2018-05-30 18:05:17 GET /Images/Cool-Ideas-button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3605
+2018-05-30 18:05:17 GET /Images/Adobe-ID-044ASP365792.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 13230
+2018-05-30 18:05:17 GET /Images/News-Button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 2706
+2018-05-30 18:05:17 GET /Images/Equipment-button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3786
+2018-05-30 18:05:17 GET /Images/contact-us-button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3759
+2018-05-30 18:05:17 GET /Images/Links-Button.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 2773
+2018-05-30 18:05:17 GET /images/bottombar.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 1851
+2018-05-30 18:05:17 GET /Images/therapists-page-backgrounds2.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 11484
+2018-05-30 18:05:18 GET /Images/Vision-Button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3058
+2018-05-30 18:05:18 GET /Images/Home-button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 2962
+2018-05-30 18:05:18 GET /Images/Therapy-services-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 1659
+2018-05-30 18:05:18 GET /Images/Intake-Forms-Button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 4229
+2018-05-30 18:05:18 GET /Images/Cool-Ideas-button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3744
+2018-05-30 18:05:18 GET /Images/Equipment-button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3936
+2018-05-30 18:05:18 GET /Images/Pricing-button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 1931
+2018-05-30 18:05:18 GET /Images/Links-Button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 2851
+2018-05-30 18:05:18 GET /Images/Contact-Us-Button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3901
+2018-05-30 18:05:18 GET /Images/News-Button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 2778
+2018-05-30 18:05:18 GET /Images/Therapsits-button-MO.jpg 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 3705
+2018-05-30 18:05:57 GET / 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 18:05:58 GET /images/NewAddressAnimation.gif 107.3.165.48 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1453307
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 18:23:23
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 18:23:23 GET / 66.249.66.199 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 18:26:47 GET / 157.55.39.196 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 18:46:29
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 18:46:29 GET /marilynrbird.html 73.170.32.123 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 - www.birdkernanddalmia.com 200 0 7428
+2018-05-30 18:46:29 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 18:46:29 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 18:46:29 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 18:46:29 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 18:46:29 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 18:46:29 GET /apple-touch-icon-120x120-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 18:46:29 GET /apple-touch-icon-120x120.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 18:46:29 GET /apple-touch-icon-precomposed.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 18:46:30 GET /apple-touch-icon.png 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 18:46:30 GET /favicon.ico 73.170.32.123 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 19:01:57 GET / 169.45.180.248 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - www.birdkernanddalmia.com 200 0 6423
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 19:21:32
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 19:21:32 GET / 180.76.15.142 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - birdkernanddalmia.com 200 0 6442
+2018-05-30 19:24:07 GET / 180.76.15.155 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.birdkernanddalmia.com 200 0 6442
+2018-05-30 19:36:15 GET /robots.txt 123.125.71.114 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.birdkernanddalmia.com 404 0 0
+2018-05-30 19:37:33 GET /images/Bird+and+Kern+Billing+Information.pdf 220.181.108.113 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - www.birdkernanddalmia.com 200 0 395076
+2018-05-30 19:48:12 GET /robots.txt 216.244.66.238 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - birdkernanddalmia.com 404 0 5465
+2018-05-30 19:54:43 GET / 66.249.66.203 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 19:56:56 GET /images/Bird+and+Kern+Privacy+Policy.pdf 216.244.66.238 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - birdkernanddalmia.com 200 0 404356
+2018-05-30 20:06:00 GET /administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 192.99.36.227 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - birdkernanddalmia.com 404 0 5648
+2018-05-30 20:06:00 GET /administrator/components/com_jinc/classes/graphics/php-ofc-library/ofc_upload_image.php 192.99.36.227 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/62.0.3202.94+Safari/537.36 - birdkernanddalmia.com 404 0 5648
+2018-05-30 20:21:03 GET /robots.txt 66.249.66.87 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - birdkernanddalmia.com 404 0 5465
+2018-05-30 20:21:03 GET / 66.249.66.89 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - birdkernanddalmia.com 200 0 6423
+2018-05-30 20:28:48 GET /Scripts/AC_RunActiveContent.js 40.77.189.188 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+BingPreview/1.0b - www.birdkernanddalmia.com 200 0 8613
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 20:48:41
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 20:48:40 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko - www.birdkernanddalmia.com 200 0 9005
+2018-05-30 20:48:40 GET /Scripts/AC_RunActiveContent.js 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 8613
+2018-05-30 20:48:40 GET /cssone.css 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 876
+2018-05-30 20:48:40 GET /Images/Home-button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2885
+2018-05-30 20:48:40 GET /Images/Vision-Button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2957
+2018-05-30 20:48:40 GET /Images/Therapy-services.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1492
+2018-05-30 20:48:40 GET /Images/Therapist-button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3556
+2018-05-30 20:48:40 GET /Images/Pricing-button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1711
+2018-05-30 20:48:40 GET /Images/Cool-Ideas-button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3605
+2018-05-30 20:48:40 GET /images/bottombar.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1851
+2018-05-30 20:48:40 GET /Images/Intake-Forms-Button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 4049
+2018-05-30 20:48:40 GET /Images/Adobe-ID-044ASP365792.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 13230
+2018-05-30 20:48:40 GET /Images/Equipment-button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3786
+2018-05-30 20:48:40 GET /Images/News-Button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2706
+2018-05-30 20:48:40 GET /Images/Links-Button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2773
+2018-05-30 20:48:40 GET /Images/contact-us-button.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3759
+2018-05-30 20:48:40 GET /images/therapyservicesbackground.jpeg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 25858
+2018-05-30 20:48:40 GET /Images/Home-button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2962
+2018-05-30 20:48:40 GET /Images/Vision-Button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3058
+2018-05-30 20:48:40 GET /Images/Therapy-services-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1659
+2018-05-30 20:48:40 GET /Images/Intake-Forms-Button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 4229
+2018-05-30 20:48:40 GET /Images/Pricing-button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1931
+2018-05-30 20:48:40 GET /Images/Cool-Ideas-button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3744
+2018-05-30 20:48:40 GET /Images/Equipment-button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3936
+2018-05-30 20:48:40 GET /Images/Links-Button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2851
+2018-05-30 20:48:40 GET /Images/Contact-Us-Button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3901
+2018-05-30 20:48:40 GET /Images/Therapsits-button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3705
+2018-05-30 20:48:40 GET /Images/News-Button-MO.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2778
+2018-05-30 20:49:25 GET /Images/Image2.gif 207.46.13.149 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 52560
+2018-05-30 20:50:21 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko - www.birdkernanddalmia.com 200 0 9005
+2018-05-30 20:50:24 GET /intakeforms.html 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 7484
+2018-05-30 20:50:24 GET /Images/intakeforms-page-background.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 13042
+2018-05-30 20:50:24 GET /images/PKPTA.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 93022
+2018-05-30 20:50:24 GET /images/BKCCHF.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 107396
+2018-05-30 20:50:24 GET /images/BKRoPI.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 105184
+2018-05-30 20:50:25 GET /images/BKPP.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 213832
+2018-05-30 20:50:25 GET /images/Bird+and+Kern+Billing+Form.jpeg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 715560
+2018-05-30 20:50:26 GET /images/Bird+and+Kern+Permission+to+Access.pdf 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 391183
+2018-05-30 20:52:16 GET / 66.249.66.203 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 20:53:05 GET / 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko https://www.yelp.com/ www.birdkernanddalmia.com 200 0 6423
+2018-05-30 20:53:07 GET /images/NewAddressAnimation.gif 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1453307
+2018-05-30 20:56:37 GET /therapists.html 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 7299
+2018-05-30 20:56:37 GET /Images/therapists-page-backgrounds2.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 11484
+2018-05-30 20:56:42 GET /Laura+Craine.html 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 7765
+2018-05-30 20:56:57 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/Laura%20Craine.html www.birdkernanddalmia.com 200 0 7416
+2018-05-30 20:56:57 GET /Images/pricing-page-background.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/pricing.cfm www.birdkernanddalmia.com 200 0 39724
+2018-05-30 20:57:01 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/pricing.cfm www.birdkernanddalmia.com 200 0 7249
+2018-05-30 20:57:01 GET /Images/Image1.gif 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 50188
+2018-05-30 20:57:01 GET /Images/Image2.gif 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 52560
+2018-05-30 20:57:01 GET /images/Eqipment-Banckend-side-bar-left.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 2807
+2018-05-30 20:57:01 GET /Images/Equipment-page-background.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 26331
+2018-05-30 20:57:23 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 10254
+2018-05-30 20:57:23 GET /Images/News-page-background.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/news.cfm www.birdkernanddalmia.com 200 0 9913
+2018-05-30 20:57:50 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/news.cfm www.birdkernanddalmia.com 200 0 6834
+2018-05-30 20:57:51 GET /Images/links-page-background.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/links.cfm www.birdkernanddalmia.com 200 0 27385
+2018-05-30 20:57:56 GET /vision.html 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/links.cfm www.birdkernanddalmia.com 200 0 7736
+2018-05-30 20:57:56 GET /images/BLETTER.gif 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/vision.html www.birdkernanddalmia.com 200 0 1504
+2018-05-30 20:57:56 GET /Images/vision-page-background2.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/vision.html www.birdkernanddalmia.com 200 0 18023
+2018-05-30 20:58:13 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/vision.html www.birdkernanddalmia.com 200 0 9005
+2018-05-30 20:58:31 GET /jakarta/isapi_redirect.dll 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 7784
+2018-05-30 20:58:31 GET /Images/coolideas-page-background.jpg 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 77435
+2018-05-30 20:58:52 GET /carolynkern.html 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 8083
+2018-05-30 20:59:08 GET /marywaltz.html 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 7910
+2018-05-30 20:59:40 GET /anudalmia.html 73.231.187.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+LCTE;+rv:11.0)+like+Gecko http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 7942
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 21:26:00
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 21:26:00 GET / 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 - www.birdkernanddalmia.com 200 0 6423
+2018-05-30 21:26:00 GET /cssone.css 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 876
+2018-05-30 21:26:00 GET /Scripts/AC_RunActiveContent.js 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 8613
+2018-05-30 21:26:00 GET /Images/Home-button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2885
+2018-05-30 21:26:00 GET /Images/Vision-Button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2957
+2018-05-30 21:26:00 GET /Images/Therapy-services.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1492
+2018-05-30 21:26:00 GET /Images/Adobe-ID-044ASP365792.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 13230
+2018-05-30 21:26:00 GET /images/bottombar.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1851
+2018-05-30 21:26:00 GET /Images/Therapist-button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3556
+2018-05-30 21:26:00 GET /Images/News-Button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2706
+2018-05-30 21:26:00 GET /Images/Equipment-button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3786
+2018-05-30 21:26:00 GET /Images/Pricing-button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1711
+2018-05-30 21:26:00 GET /Images/contact-us-button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3759
+2018-05-30 21:26:00 GET /Images/Cool-Ideas-button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3605
+2018-05-30 21:26:00 GET /Images/Links-Button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2773
+2018-05-30 21:26:00 GET /Images/Intake-Forms-Button.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 4049
+2018-05-30 21:26:02 GET /images/NewAddressAnimation.gif 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1453307
+2018-05-30 21:26:02 GET /Images/Home-button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2962
+2018-05-30 21:26:02 GET /Images/Intake-Forms-Button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 4229
+2018-05-30 21:26:02 GET /Images/Vision-Button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3058
+2018-05-30 21:26:02 GET /Images/Therapy-services-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1659
+2018-05-30 21:26:02 GET /Images/Pricing-button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1931
+2018-05-30 21:26:02 GET /Images/Cool-Ideas-button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3744
+2018-05-30 21:26:02 GET /favicon.ico 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 404 0 5471
+2018-05-30 21:26:02 GET /Images/Equipment-button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3936
+2018-05-30 21:26:02 GET /Images/News-Button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2778
+2018-05-30 21:26:02 GET /Images/Links-Button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2851
+2018-05-30 21:26:02 GET /Images/Therapsits-button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3705
+2018-05-30 21:26:02 GET /Images/Contact-Us-Button-MO.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3901
+2018-05-30 21:26:13 GET / 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 - www.birdkernanddalmia.com 304 0 239
+2018-05-30 21:26:16 GET / 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 - www.birdkernanddalmia.com 304 0 239
+2018-05-30 21:26:28 GET /jakarta/isapi_redirect.dll 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 9005
+2018-05-30 21:26:28 GET /images/therapyservicesbackground.jpeg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 25858
+2018-05-30 21:26:39 GET /therapists.html 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 7299
+2018-05-30 21:26:39 GET /Images/therapists-page-backgrounds2.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 11484
+2018-05-30 21:28:03 GET /jakarta/isapi_redirect.dll 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 9005
+2018-05-30 21:28:51 GET /jakarta/isapi_redirect.dll 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 6547
+2018-05-30 21:28:51 GET /Images/contact-us-page-background.jpg 107.77.109.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950U1+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.birdkernanddalmia.com/contactus.cfm www.birdkernanddalmia.com 200 0 7908
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 21:50:11
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 21:50:10 GET /jakarta/isapi_redirect.dll 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 https://www.google.com/ www.birdkernanddalmia.com 200 0 9005
+2018-05-30 21:50:11 GET /cssone.css 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 876
+2018-05-30 21:50:11 GET /Images/Home-button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2885
+2018-05-30 21:50:11 GET /Images/Therapy-services.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1492
+2018-05-30 21:50:11 GET /Images/Therapist-button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3556
+2018-05-30 21:50:11 GET /Scripts/AC_RunActiveContent.js 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 8613
+2018-05-30 21:50:11 GET /Images/Intake-Forms-Button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 4049
+2018-05-30 21:50:11 GET /Images/Vision-Button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2957
+2018-05-30 21:50:11 GET /Images/Pricing-button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1711
+2018-05-30 21:50:11 GET /Images/Cool-Ideas-button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3605
+2018-05-30 21:50:11 GET /Images/Adobe-ID-044ASP365792.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 13230
+2018-05-30 21:50:11 GET /Images/Equipment-button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3786
+2018-05-30 21:50:11 GET /Images/News-Button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2706
+2018-05-30 21:50:11 GET /Images/contact-us-button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3759
+2018-05-30 21:50:11 GET /Images/Links-Button.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2773
+2018-05-30 21:50:11 GET /images/bottombar.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1851
+2018-05-30 21:50:11 GET /images/therapyservicesbackground.jpeg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 25858
+2018-05-30 21:50:11 GET /Images/Therapy-services-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1659
+2018-05-30 21:50:11 GET /Images/Intake-Forms-Button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 4229
+2018-05-30 21:50:11 GET /Images/Home-button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2962
+2018-05-30 21:50:11 GET /Images/Vision-Button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3058
+2018-05-30 21:50:11 GET /Images/Pricing-button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 1931
+2018-05-30 21:50:11 GET /Images/Cool-Ideas-button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3744
+2018-05-30 21:50:11 GET /Images/Equipment-button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3936
+2018-05-30 21:50:11 GET /Images/Links-Button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2851
+2018-05-30 21:50:11 GET /Images/Contact-Us-Button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3901
+2018-05-30 21:50:11 GET /Images/Therapsits-button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 3705
+2018-05-30 21:50:11 GET /Images/News-Button-MO.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 2778
+2018-05-30 21:50:11 GET /favicon.ico 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 404 0 5471
+2018-05-30 21:50:25 GET /therapists.html 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 7299
+2018-05-30 21:50:25 GET /Images/therapists-page-backgrounds2.jpg 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 11484
+2018-05-30 21:50:39 GET /marilynrbird.html 96.3.194.66 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_13_4)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.1+Safari/605.1.15 http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 7428
+2018-05-30 21:56:35 GET / 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 https://www.google.com/ www.birdkernanddalmia.com 200 0 6423
+2018-05-30 21:56:35 GET /Scripts/AC_RunActiveContent.js 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 8613
+2018-05-30 21:56:35 GET /cssone.css 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 876
+2018-05-30 21:56:35 GET /Images/Adobe-ID-044ASP365792.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 13230
+2018-05-30 21:56:35 GET /Images/Home-button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2885
+2018-05-30 21:56:35 GET /Images/Vision-Button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2957
+2018-05-30 21:56:35 GET /Images/Therapy-services.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1492
+2018-05-30 21:56:35 GET /Images/Therapist-button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3556
+2018-05-30 21:56:35 GET /Images/Intake-Forms-Button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 4049
+2018-05-30 21:56:35 GET /Images/Pricing-button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1711
+2018-05-30 21:56:35 GET /Images/Cool-Ideas-button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3605
+2018-05-30 21:56:36 GET /Images/Equipment-button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3786
+2018-05-30 21:56:36 GET /Images/News-Button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2706
+2018-05-30 21:56:36 GET /Images/Links-Button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2773
+2018-05-30 21:56:36 GET /Images/contact-us-button.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3759
+2018-05-30 21:56:37 GET /images/NewAddressAnimation.gif 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1453307
+2018-05-30 21:56:37 GET /images/bottombar.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1851
+2018-05-30 21:56:37 GET /Images/Pricing-button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1931
+2018-05-30 21:56:37 GET /Images/Therapy-services-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 1659
+2018-05-30 21:56:37 GET /Images/Vision-Button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3058
+2018-05-30 21:56:37 GET /Images/Home-button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2962
+2018-05-30 21:56:38 GET /Images/Intake-Forms-Button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 4229
+2018-05-30 21:56:38 GET /Images/Links-Button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2851
+2018-05-30 21:56:38 GET /Images/Equipment-button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3936
+2018-05-30 21:56:38 GET /Images/Cool-Ideas-button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3744
+2018-05-30 21:56:38 GET /Images/Contact-Us-Button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3901
+2018-05-30 21:56:38 GET /Images/News-Button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 2778
+2018-05-30 21:56:38 GET /favicon.ico 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 404 0 5471
+2018-05-30 21:56:38 GET /Images/Therapsits-button-MO.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 3705
+2018-05-30 21:56:52 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/ www.birdkernanddalmia.com 200 0 9005
+2018-05-30 21:56:52 GET /images/therapyservicesbackground.jpeg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 25858
+2018-05-30 21:57:16 GET /therapists.html 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/therapyservices.cfm www.birdkernanddalmia.com 200 0 7299
+2018-05-30 21:57:16 GET /Images/therapists-page-backgrounds2.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 11484
+2018-05-30 21:57:24 GET /vision.html 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 7736
+2018-05-30 21:57:24 GET /images/BLETTER.gif 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/vision.html www.birdkernanddalmia.com 200 0 1504
+2018-05-30 21:57:24 GET /Images/vision-page-background2.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/vision.html www.birdkernanddalmia.com 200 0 18023
+2018-05-30 21:57:25 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/vision.html www.birdkernanddalmia.com 200 0 9005
+2018-05-30 21:57:35 GET /intakeforms.html 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 7484
+2018-05-30 21:57:35 GET /images/Bird+and+Kern+Billing+Form.jpeg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 715560
+2018-05-30 21:57:35 GET /images/PKPTA.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 93022
+2018-05-30 21:57:35 GET /images/BKRoPI.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 105184
+2018-05-30 21:57:35 GET /Images/intakeforms-page-background.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 13042
+2018-05-30 21:57:35 GET /images/BKCCHF.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 107396
+2018-05-30 21:57:35 GET /images/BKPP.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 213832
+2018-05-30 21:57:36 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/intakeforms.html www.birdkernanddalmia.com 200 0 7416
+2018-05-30 21:57:36 GET /Images/pricing-page-background.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/pricing.cfm www.birdkernanddalmia.com 200 0 39724
+2018-05-30 21:57:42 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/pricing.cfm www.birdkernanddalmia.com 200 0 6547
+2018-05-30 21:57:42 GET /Images/contact-us-page-background.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/contactus.cfm www.birdkernanddalmia.com 200 0 7908
+2018-05-30 21:58:25 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/contactus.cfm www.birdkernanddalmia.com 200 0 6834
+2018-05-30 21:58:25 GET /Images/links-page-background.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/links.cfm www.birdkernanddalmia.com 200 0 27385
+2018-05-30 21:58:35 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/links.cfm www.birdkernanddalmia.com 200 0 7249
+2018-05-30 21:58:35 GET /Images/Image2.gif 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 52560
+2018-05-30 21:58:35 GET /Images/Image1.gif 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 50188
+2018-05-30 21:58:35 GET /Images/Equipment-page-background.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 26331
+2018-05-30 21:58:35 GET /images/Eqipment-Banckend-side-bar-left.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 2807
+2018-05-30 21:58:49 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/equipment.cfm www.birdkernanddalmia.com 200 0 7784
+2018-05-30 21:58:49 GET /Images/coolideas-page-background.jpg 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 77435
+2018-05-30 21:58:52 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/coolideas.cfm www.birdkernanddalmia.com 200 0 7416
+2018-05-30 21:59:01 GET /jakarta/isapi_redirect.dll 98.234.107.64 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.birdkernanddalmia.com/therapists.html www.birdkernanddalmia.com 200 0 9005
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 22:45:57
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 22:45:57 GET /marilynrbird.html 107.77.75.91 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_3+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/11.0+Mobile/15E148+Safari/604.1 - www.birdkernanddalmia.com 200 0 7428
+2018-05-30 22:45:57 GET /apple-touch-icon-120x120-precomposed.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 22:45:57 GET /apple-touch-icon-120x120.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 22:45:57 GET /apple-touch-icon-precomposed.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 22:45:57 GET /apple-touch-icon.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 22:45:57 GET /favicon.ico 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+2018-05-30 22:45:57 GET /apple-touch-icon-120x120-precomposed.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5529
+2018-05-30 22:45:58 GET /apple-touch-icon-120x120.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5505
+2018-05-30 22:45:58 GET /apple-touch-icon-precomposed.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5513
+2018-05-30 22:45:58 GET /apple-touch-icon.png 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5489
+2018-05-30 22:45:58 GET /favicon.ico 107.77.75.91 HTTP/1.1 MobileSafari/604.1+CFNetwork/897.15+Darwin/17.5.0 - www.birdkernanddalmia.com 404 0 5471
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-30 23:02:41
+#Fields: date time cs-method cs-uri-stem c-ip cs-version cs(User-Agent) cs(Referer) cs-host sc-status sc-substatus sc-bytes
+2018-05-30 23:02:41 GET /images/Bird+and+Kern+Permission+to+Access.pdf 207.46.13.149 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - www.birdkernanddalmia.com 200 0 391183
