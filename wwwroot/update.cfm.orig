@@ -1,0 +1,13 @@
+<!--- Name: Update.cfm
+By: Jacob H Bird
+Description: Table row Update--->
+
+<cfquery name="Recordset1" datasource="BAK">
+	UPDATE 'kern'
+    SET CONTENTONE= '#FORM.CONTENTONE#', CONTENTTWO= '#FORM.CONTENTTWO#', CONTENTTHREE= '#FORM.CONTENTTHREE#', CONTENTFOUR= '#FORM.CONTENTFOUR#', CONTENTFIVE= '#FORM.CONTENTFIVE#', CONTENTSIX= '#FORM.CONTENTSIX#'
+</cfquery>
+
+<cfoutput> update successful ! </cfoutput>
+
+<br /><br />
+<a href="newsbak.cfm">Back</a>
